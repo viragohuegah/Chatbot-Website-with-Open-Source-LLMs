@@ -13,6 +13,7 @@ We will will create ChatGPT-like chatbot website using free open source Large La
 4. [Usage](#usage)
 5. [Project Status](#project-status)
 6. [Instructors](#instructors)
+7. [Contributors](#contributors)
 
 
 <a name="mentee-info"></a>
@@ -63,5 +64,13 @@ Project is: _development phase complete_
 
 <a name="instructors"></a>
 ## Instructors
-- [@Rohit Arora](https://author.skills.network/instructors/rohit_arora)
-- [@Talha Siddiqui](https://author.skills.network/instructors/talha_siddiqui)
+- [@Joseph Santarcangelo](https://author.skills.network/instructors/joseph_santarcangelo)
+- [@J.C.(Junxing) Chen](https://author.skills.network/instructors/jc_chen)
+- [@Vicky Kuo](https://author.skills.network/instructors/vicky_kuo)
+- [@Efkan Serhat Goktepe](https://author.skills.network/instructors/efkan_serhat_goktepe)
+
+<a name="contributors"></a>
+## Contributors
+- [@Bradley Steinfeld](https://github.com/bsteinfeld)
+- [@Justin Correia](https://author.skills.network/instructors/justin_correia)
+- [@Neha Ali](https://author.skills.network/instructors/neha_ali)
