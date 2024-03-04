@@ -3,7 +3,7 @@
   
 <br>Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Create Your Own Chatbot Website with Open Source LLMs from [CognitiveClass.ai](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX04ESEN+v1)
 
-We will will create ChatGPT-like chatbot website using free open source Large Language Models (LLM).
+We will create ChatGPT-like chatbot website using free open source Large Language Models (LLM).
 
 
 ## Table of Contents
