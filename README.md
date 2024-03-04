@@ -1,5 +1,5 @@
 # Chatbot Website with Open Source LLMs
-<center> <img src=".png"> <center>
+<center> <img src="chatbot_preview.png"> <center>
   
 <br>Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Create Your Own Chatbot Website with Open Source LLMs from [CognitiveClass.ai](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX04ESEN+v1)
 
