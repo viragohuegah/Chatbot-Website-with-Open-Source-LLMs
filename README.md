@@ -51,7 +51,9 @@ pip install -r requirements.txt
 
 ## Usage
 You can run the program by using the command below.
-
+```bash
+flask run
+```
 ```bash
 start http://localhost:5000
 ```
